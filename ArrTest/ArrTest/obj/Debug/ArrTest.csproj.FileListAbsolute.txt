@@ -1,7 +1,0 @@
-C:\Users\dell\source\repos\ArrTest\ArrTest\bin\Debug\ArrTest.exe.config
-C:\Users\dell\source\repos\ArrTest\ArrTest\bin\Debug\ArrTest.exe
-C:\Users\dell\source\repos\ArrTest\ArrTest\bin\Debug\ArrTest.pdb
-C:\Users\dell\source\repos\ArrTest\ArrTest\obj\Debug\ArrTest.csproj.AssemblyReference.cache
-C:\Users\dell\source\repos\ArrTest\ArrTest\obj\Debug\ArrTest.csproj.CoreCompileInputs.cache
-C:\Users\dell\source\repos\ArrTest\ArrTest\obj\Debug\ArrTest.exe
-C:\Users\dell\source\repos\ArrTest\ArrTest\obj\Debug\ArrTest.pdb

@@ -1,0 +1,93 @@
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\XanderUI.dll
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Login.resources
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe.config
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.PasswordReset.resources
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.DoktorPanel.resources
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe.licenses
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.MuayenePanel.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.HastaneOtomasyonu.exe.config
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.DoktorPanel.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Login.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.PasswordReset.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.Cache
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe.licenses
+C:\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.Recete.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\XanderUI.dll
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe.config
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.DoktorPanel.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Login.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.PasswordReset.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe.licenses
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.RandevuTanı.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.RandevuRecete.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.AnamezPanel.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.RandevuPanel.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.YoneticiPanel.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.PersonelEkle.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.HastaListesi.resources
+C:\WORKSPACE\Visual Studio\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.PersonelSil.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.HastaListesi.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.PersonelEkle.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.PersonelSil.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.RandevuPanel.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.RandevuTanı.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.RandevuRecete.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.AnamezPanel.resources
+C:\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ViewLayer.YoneticiPanel.resources

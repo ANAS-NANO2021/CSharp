@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\rezerve\bin\Debug\rezerve.exe.config
+C:\Users\Acer\source\repos\rezerve\bin\Debug\rezerve.exe
+C:\Users\Acer\source\repos\rezerve\bin\Debug\rezerve.pdb
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.masalar.resources
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.menu.resources
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.gi_r.resources
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.HESAPLAMA.resources
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.Kullanıcı_Ekle.resources
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.Properties.Resources.resources
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.rezervasyon.resources
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.exe
+C:\Users\Acer\source\repos\rezerve\obj\Debug\rezerve.pdb

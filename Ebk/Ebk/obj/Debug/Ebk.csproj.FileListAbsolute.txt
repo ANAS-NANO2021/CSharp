@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Ebk\Ebk\bin\Debug\Ebk.exe.config
+C:\Users\dell\source\repos\Ebk\Ebk\bin\Debug\Ebk.exe
+C:\Users\dell\source\repos\Ebk\Ebk\bin\Debug\Ebk.pdb
+C:\Users\dell\source\repos\Ebk\Ebk\obj\Debug\Ebk.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Ebk\Ebk\obj\Debug\Ebk.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ebk\Ebk\obj\Debug\Ebk.exe
+C:\Users\dell\source\repos\Ebk\Ebk\obj\Debug\Ebk.pdb

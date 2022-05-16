@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\dell\source\repos\project\project\bin\Debug\project.exe
+C:\Users\dell\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\dell\source\repos\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\project\project\obj\Debug\project.exe
+C:\Users\dell\source\repos\project\project\obj\Debug\project.pdb

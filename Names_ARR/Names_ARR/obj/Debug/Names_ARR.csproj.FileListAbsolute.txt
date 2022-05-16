@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Names_ARR\Names_ARR\bin\Debug\Names_ARR.exe.config
+C:\Users\dell\source\repos\Names_ARR\Names_ARR\bin\Debug\Names_ARR.exe
+C:\Users\dell\source\repos\Names_ARR\Names_ARR\bin\Debug\Names_ARR.pdb
+C:\Users\dell\source\repos\Names_ARR\Names_ARR\obj\Debug\Names_ARR.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Names_ARR\Names_ARR\obj\Debug\Names_ARR.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Names_ARR\Names_ARR\obj\Debug\Names_ARR.exe
+C:\Users\dell\source\repos\Names_ARR\Names_ARR\obj\Debug\Names_ARR.pdb

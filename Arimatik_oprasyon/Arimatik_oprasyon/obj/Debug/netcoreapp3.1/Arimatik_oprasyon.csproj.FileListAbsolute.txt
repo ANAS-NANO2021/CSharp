@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\bin\Debug\netcoreapp3.1\Arimatik_oprasyon.exe
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\bin\Debug\netcoreapp3.1\Arimatik_oprasyon.deps.json
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\bin\Debug\netcoreapp3.1\Arimatik_oprasyon.runtimeconfig.json
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\bin\Debug\netcoreapp3.1\Arimatik_oprasyon.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\bin\Debug\netcoreapp3.1\Arimatik_oprasyon.dll
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\bin\Debug\netcoreapp3.1\Arimatik_oprasyon.pdb
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\obj\Debug\netcoreapp3.1\Arimatik_oprasyon.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\obj\Debug\netcoreapp3.1\Arimatik_oprasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\obj\Debug\netcoreapp3.1\Arimatik_oprasyon.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\obj\Debug\netcoreapp3.1\Arimatik_oprasyon.AssemblyInfo.cs
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\obj\Debug\netcoreapp3.1\Arimatik_oprasyon.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\obj\Debug\netcoreapp3.1\Arimatik_oprasyon.dll
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\obj\Debug\netcoreapp3.1\Arimatik_oprasyon.pdb
+C:\Users\dell\source\repos\Arimatik_oprasyon\Arimatik_oprasyon\obj\Debug\netcoreapp3.1\Arimatik_oprasyon.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Ornekler\Ornekler\bin\Debug\Ornekler.exe.config
+C:\Users\dell\source\repos\Ornekler\Ornekler\bin\Debug\Ornekler.exe
+C:\Users\dell\source\repos\Ornekler\Ornekler\bin\Debug\Ornekler.pdb
+C:\Users\dell\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.exe
+C:\Users\dell\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.pdb

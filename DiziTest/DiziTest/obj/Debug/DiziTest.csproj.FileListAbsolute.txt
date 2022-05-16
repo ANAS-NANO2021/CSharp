@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\DiziTest\DiziTest\bin\Debug\DiziTest.exe.config
+C:\Users\dell\source\repos\DiziTest\DiziTest\bin\Debug\DiziTest.exe
+C:\Users\dell\source\repos\DiziTest\DiziTest\bin\Debug\DiziTest.pdb
+C:\Users\dell\source\repos\DiziTest\DiziTest\obj\Debug\DiziTest.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\DiziTest\DiziTest\obj\Debug\DiziTest.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DiziTest\DiziTest\obj\Debug\DiziTest.exe
+C:\Users\dell\source\repos\DiziTest\DiziTest\obj\Debug\DiziTest.pdb

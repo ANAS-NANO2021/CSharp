@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\LearnForm\LearnForm\bin\Debug\LearnForm.exe.config
+C:\Users\dell\source\repos\LearnForm\LearnForm\bin\Debug\LearnForm.exe
+C:\Users\dell\source\repos\LearnForm\LearnForm\bin\Debug\LearnForm.pdb
+C:\Users\dell\source\repos\LearnForm\LearnForm\obj\Debug\LearnForm.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\LearnForm\LearnForm\obj\Debug\LearnForm.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\LearnForm\LearnForm\obj\Debug\LearnForm.exe
+C:\Users\dell\source\repos\LearnForm\LearnForm\obj\Debug\LearnForm.pdb

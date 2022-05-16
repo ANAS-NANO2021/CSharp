@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\DizilerTest\DizilerTest\bin\Debug\DizilerTest.exe.config
+C:\Users\dell\source\repos\DizilerTest\DizilerTest\bin\Debug\DizilerTest.exe
+C:\Users\dell\source\repos\DizilerTest\DizilerTest\bin\Debug\DizilerTest.pdb
+C:\Users\dell\source\repos\DizilerTest\DizilerTest\obj\Debug\DizilerTest.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\DizilerTest\DizilerTest\obj\Debug\DizilerTest.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DizilerTest\DizilerTest\obj\Debug\DizilerTest.exe
+C:\Users\dell\source\repos\DizilerTest\DizilerTest\obj\Debug\DizilerTest.pdb

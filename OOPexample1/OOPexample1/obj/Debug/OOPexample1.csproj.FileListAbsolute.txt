@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\OOPexample1\OOPexample1\bin\Debug\OOPexample1.exe.config
+C:\Users\dell\source\repos\OOPexample1\OOPexample1\bin\Debug\OOPexample1.exe
+C:\Users\dell\source\repos\OOPexample1\OOPexample1\bin\Debug\OOPexample1.pdb
+C:\Users\dell\source\repos\OOPexample1\OOPexample1\obj\Debug\OOPexample1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\OOPexample1\OOPexample1\obj\Debug\OOPexample1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\OOPexample1\OOPexample1\obj\Debug\OOPexample1.exe
+C:\Users\dell\source\repos\OOPexample1\OOPexample1\obj\Debug\OOPexample1.pdb

@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\finalExam\finalExam\bin\Debug\finalExam.exe.config
+C:\Users\dell\source\repos\finalExam\finalExam\bin\Debug\finalExam.exe
+C:\Users\dell\source\repos\finalExam\finalExam\bin\Debug\finalExam.pdb
+C:\Users\dell\source\repos\finalExam\finalExam\obj\Debug\finalExam.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\finalExam\finalExam\obj\Debug\finalExam.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\finalExam\finalExam\obj\Debug\finalExam.exe
+C:\Users\dell\source\repos\finalExam\finalExam\obj\Debug\finalExam.pdb

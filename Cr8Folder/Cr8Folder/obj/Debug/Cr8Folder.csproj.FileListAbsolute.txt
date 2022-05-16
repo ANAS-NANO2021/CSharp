@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Cr8Folder\Cr8Folder\bin\Debug\Cr8Folder.exe.config
+C:\Users\dell\source\repos\Cr8Folder\Cr8Folder\bin\Debug\Cr8Folder.exe
+C:\Users\dell\source\repos\Cr8Folder\Cr8Folder\bin\Debug\Cr8Folder.pdb
+C:\Users\dell\source\repos\Cr8Folder\Cr8Folder\obj\Debug\Cr8Folder.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Cr8Folder\Cr8Folder\obj\Debug\Cr8Folder.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Cr8Folder\Cr8Folder\obj\Debug\Cr8Folder.exe
+C:\Users\dell\source\repos\Cr8Folder\Cr8Folder\obj\Debug\Cr8Folder.pdb

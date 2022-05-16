@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.exe
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.deps.json
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.runtimeconfig.json
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.runtimeconfig.dev.json
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.dll
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.pdb
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.AssemblyInfo.cs
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.dll
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.pdb
+C:\Users\dell\source\repos\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.genruntimeconfig.cache

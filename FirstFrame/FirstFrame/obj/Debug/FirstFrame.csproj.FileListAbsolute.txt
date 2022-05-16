@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\FirstFrame\FirstFrame\obj\Debug\FirstFrame.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\FirstFrame\FirstFrame\obj\Debug\FirstFrame.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\FirstFrame\FirstFrame\bin\Debug\FirstFrame.exe.config
+C:\Users\dell\source\repos\FirstFrame\FirstFrame\bin\Debug\FirstFrame.exe
+C:\Users\dell\source\repos\FirstFrame\FirstFrame\bin\Debug\FirstFrame.pdb
+C:\Users\dell\source\repos\FirstFrame\FirstFrame\obj\Debug\FirstFrame.exe
+C:\Users\dell\source\repos\FirstFrame\FirstFrame\obj\Debug\FirstFrame.pdb

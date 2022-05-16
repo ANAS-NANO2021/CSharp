@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Ogr_ortalamasi1\Ogr_ortalamasi1\obj\Debug\Ogr_ortalamasi1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Ogr_ortalamasi1\Ogr_ortalamasi1\obj\Debug\Ogr_ortalamasi1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ogr_ortalamasi1\Ogr_ortalamasi1\bin\Debug\Ogr_ortalamasi1.exe.config
+C:\Users\dell\source\repos\Ogr_ortalamasi1\Ogr_ortalamasi1\bin\Debug\Ogr_ortalamasi1.exe
+C:\Users\dell\source\repos\Ogr_ortalamasi1\Ogr_ortalamasi1\bin\Debug\Ogr_ortalamasi1.pdb
+C:\Users\dell\source\repos\Ogr_ortalamasi1\Ogr_ortalamasi1\obj\Debug\Ogr_ortalamasi1.exe
+C:\Users\dell\source\repos\Ogr_ortalamasi1\Ogr_ortalamasi1\obj\Debug\Ogr_ortalamasi1.pdb

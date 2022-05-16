@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\ikinci Denklem\ikinci Denklem\bin\Debug\ikinci Denklem.exe.config
+C:\Users\dell\source\repos\ikinci Denklem\ikinci Denklem\bin\Debug\ikinci Denklem.exe
+C:\Users\dell\source\repos\ikinci Denklem\ikinci Denklem\bin\Debug\ikinci Denklem.pdb
+C:\Users\dell\source\repos\ikinci Denklem\ikinci Denklem\obj\Debug\ikinci Denklem.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ikinci Denklem\ikinci Denklem\obj\Debug\ikinci Denklem.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ikinci Denklem\ikinci Denklem\obj\Debug\ikinci Denklem.exe
+C:\Users\dell\source\repos\ikinci Denklem\ikinci Denklem\obj\Debug\ikinci Denklem.pdb

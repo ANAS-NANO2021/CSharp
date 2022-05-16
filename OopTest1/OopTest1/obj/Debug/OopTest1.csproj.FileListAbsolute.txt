@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\OopTest1\OopTest1\bin\Debug\OopTest1.exe.config
+C:\Users\dell\source\repos\OopTest1\OopTest1\bin\Debug\OopTest1.exe
+C:\Users\dell\source\repos\OopTest1\OopTest1\bin\Debug\OopTest1.pdb
+C:\Users\dell\source\repos\OopTest1\OopTest1\obj\Debug\OopTest1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\OopTest1\OopTest1\obj\Debug\OopTest1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\OopTest1\OopTest1\obj\Debug\OopTest1.exe
+C:\Users\dell\source\repos\OopTest1\OopTest1\obj\Debug\OopTest1.pdb

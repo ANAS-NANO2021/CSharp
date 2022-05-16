@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\ExamFınal2021\ExamFınal2021\bin\Debug\ExamFınal2021.exe.config
+C:\Users\dell\source\repos\ExamFınal2021\ExamFınal2021\bin\Debug\ExamFınal2021.exe
+C:\Users\dell\source\repos\ExamFınal2021\ExamFınal2021\bin\Debug\ExamFınal2021.pdb
+C:\Users\dell\source\repos\ExamFınal2021\ExamFınal2021\obj\Debug\ExamFınal2021.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ExamFınal2021\ExamFınal2021\obj\Debug\ExamFınal2021.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ExamFınal2021\ExamFınal2021\obj\Debug\ExamFınal2021.exe
+C:\Users\dell\source\repos\ExamFınal2021\ExamFınal2021\obj\Debug\ExamFınal2021.pdb

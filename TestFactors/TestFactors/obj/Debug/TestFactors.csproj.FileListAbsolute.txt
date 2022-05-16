@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\TestFactors\TestFactors\bin\Debug\TestFactors.exe.config
+C:\Users\dell\source\repos\TestFactors\TestFactors\bin\Debug\TestFactors.exe
+C:\Users\dell\source\repos\TestFactors\TestFactors\bin\Debug\TestFactors.pdb
+C:\Users\dell\source\repos\TestFactors\TestFactors\obj\Debug\TestFactors.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\TestFactors\TestFactors\obj\Debug\TestFactors.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\TestFactors\TestFactors\obj\Debug\TestFactors.exe
+C:\Users\dell\source\repos\TestFactors\TestFactors\obj\Debug\TestFactors.pdb
